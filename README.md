@@ -75,4 +75,3 @@ Pages :
         - page profil.
         - Page match.
         - page Liste matchs.
-        - page contact.
